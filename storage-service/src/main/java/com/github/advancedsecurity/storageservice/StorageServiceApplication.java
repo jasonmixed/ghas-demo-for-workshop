@@ -8,7 +8,6 @@ public class StorageServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(StorageServiceApplication.class, args);
-		string myVar = "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";
 	}
 
 }
